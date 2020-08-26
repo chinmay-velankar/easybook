@@ -31,7 +31,7 @@ Hi... I have made this website for you to get books of standard  to 10th of all 
   <label>Your Email</label>
   <input type="email" name="" value=""> <br>
   <label>Your Message</label>
-  <textarea name="name" rows="10" cols="30"></textarea> <br>
+   <br>
   <label>submit</label>
   <input type="submit" name="" value="">
     <hr>
