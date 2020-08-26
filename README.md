@@ -1,9 +1,9 @@
 # easybook
 Hi... I have made this website for you to get books of standard  to 10th of all boards easily
-<!DOCTYPE html>
+
 <html>
   <head>
-    <meta charset="utf-8">
+    
     <title>EASY BOOKS</title>
   </head>
   <body>
